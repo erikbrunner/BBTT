@@ -1,0 +1,3 @@
+RUN:
+cd BBTT
+./node_modules/.bin/electron .
